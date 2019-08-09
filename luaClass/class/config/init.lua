@@ -1,0 +1,1 @@
+include "luaClass.class.config.classConfig"
